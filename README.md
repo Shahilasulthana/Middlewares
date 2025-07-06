@@ -1,8 +1,4 @@
 # Middlewares
-🚀Learning how backend middleware works by building and testing examples in Node.js and Express.
-
-# Middlewares
-
 🚀 **Learning how backend middleware works by building and testing examples in Node.js and Express.**
 
 ---
