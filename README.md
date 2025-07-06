@@ -142,3 +142,9 @@ When you submit the form, it makes a POST request to /submit.
 The server receives the encoded data, which corresponds to the input names and their values.
 
 This functionality is enabled by the Body Parser middleware, which parses the form data and makes it accessible via req.body.
+
+![WhatsApp Image 2025-07-06 at 22 24 59_a0f9e722](https://github.com/user-attachments/assets/3f144efe-ff01-469b-98ff-b5850030b428)
+
+
+![WhatsApp Image 2025-07-06 at 22 29 41_47efec03](https://github.com/user-attachments/assets/d4e6f978-6e22-4a72-91f4-a520e3418e47)
+
